@@ -1,2 +1,2 @@
 # Smiley-School
-Increase number in the browser's local storage
+Increase a number in the browser's local storage
