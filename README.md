@@ -1,2 +1,2 @@
 # Smiley-School
-Increase a number in the browser's local storage
+Increase your smiley's mood!
