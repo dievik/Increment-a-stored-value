@@ -12,11 +12,17 @@ function up() {
         localStorage.save = number;
         document.getElementById("num").innerHTML = localStorage.save + " - more... MORE!";
         time("up", 0, 3000);
+
+        document.getElementById("up").value = true;
+        localStorage.ertek = document.getElementById("up").value;
     } else {
         number = Number(number)*2;
         localStorage.save = number;
         document.getElementById("num").innerHTML = localStorage.save  + " - more... MORE!";
         time("up", 0, 3000);
+
+        document.getElementById("up").value = true;
+        localStorage.ertek = document.getElementById("up").value;
     }
 }
 
