@@ -1,2 +1,2 @@
 # Smiley-School
-Increase your smiley's mood!
+Increment a dynamically stored value at the browser's localStorage with buttons, with delete function.
